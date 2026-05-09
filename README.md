@@ -1,3 +1,9 @@
-# Report_project_Group-heheehe
-demo;
-member: Thai Bao, Phuong Tram, Ai My, Thuy Diem, Dac Trung
+# Report_project_Group-hêheehe
+demo
+
+**Members:**
+* Thai Bao
+* Phuong Tram
+* Ai My
+* Thuy Diem
+* Dac Trung
